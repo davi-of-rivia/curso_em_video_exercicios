@@ -4,4 +4,4 @@ import math
 angulo = float(input('Informe o ângulo: '))
 print(f'Seno: {math.sin(math.radians(angulo)):.2f}')
 print(f'Cosseno: {math.cos(math.radians(angulo)):.2f}')
-print(f'Tângente: {math.tan(math.radians(angulo)):.2f}')
+print(f'Tangente: {math.tan(math.radians(angulo)):.2f}')
